@@ -11,3 +11,6 @@ Link to his/her Github repository
   
 Link to my Client repositiry:
   https://github.com/ZsanettOrosz/assignment-2-client.git
+
+
+Be avare that the measure types int the life status are generated automatically, so some tags can differ from the description
